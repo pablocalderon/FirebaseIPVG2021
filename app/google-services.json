@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "286051278546",
+    "firebase_url": "https://pruebafirebaseipvg2021-default-rtdb.firebaseio.com",
+    "project_id": "pruebafirebaseipvg2021",
+    "storage_bucket": "pruebafirebaseipvg2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286051278546:android:fca9f88e20034e654d970b",
+        "android_client_info": {
+          "package_name": "cl.isisur.firebaseipvg2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286051278546-133s3r3ejvgvs3g1uckmj2bnbjuas37l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcOOmEtyGdOCtceecvmx3fAn3nvGzG0G8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286051278546-133s3r3ejvgvs3g1uckmj2bnbjuas37l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
